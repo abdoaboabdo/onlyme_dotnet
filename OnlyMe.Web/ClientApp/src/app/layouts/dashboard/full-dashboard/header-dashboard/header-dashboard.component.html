@@ -1,0 +1,93 @@
+<!--Navbar-->
+<mdb-navbar SideClass="navbar navbar-expand-lg navbar-dark unique-color dltr" [containerInside]="false">
+ 
+    <!-- Navbar brand -->
+    <mdb-navbar-brand><a class="navbar-brand " href="#">OnlyMe</a></mdb-navbar-brand>
+   
+    <!-- Collapsible content -->
+    <links>
+   
+      <!-- Links -->
+      <ul class="navbar-nav mr-auto ">
+        <li class="nav-item active">
+          <a class="nav-link waves-light" mdbWavesEffect>الرئيسية<span class="sr-only">(current)</span></a>
+        </li>
+        <!-- الـمـورديـن -->
+        <li class="nav-item dropdown" dropdown>
+          <a dropdownToggle mdbWavesEffect type="button" class="nav-link dropdown-toggle waves-light" mdbWavesEffect>
+            الـمـورديـن<span class="caret"></span></a>
+          <div *dropdownMenu class="dropdown-menu dropdown dropdown-primary" role="menu">
+            <a routerLink="/dashboard/vendor/add" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect>إضـافـة مـورد</a>
+            <a routerLink="/dashboard/vendor/list" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect>كـل الـمـورديـن</a>
+          </div>
+        </li>
+
+        <!-- الـعـمـلاء -->
+        <li class="nav-item dropdown" dropdown>
+          <a dropdownToggle mdbWavesEffect type="button" class="nav-link dropdown-toggle waves-light" mdbWavesEffect>
+            الـعـمـلاء<span class="caret"></span></a>
+          <div *dropdownMenu class="dropdown-menu dropdown dropdown-primary" role="menu">
+            <a routerLink="/dashboard/customer/add" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect >إضـافـة عـمـيـل</a>
+            <a routerLink="/dashboard/customer/list" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect href="#">كـل الـعـمـلاء</a>
+          </div>
+        </li>
+
+        <!-- الفواتير -->
+        <li class="nav-item dropdown" dropdown>
+          <a dropdownToggle mdbWavesEffect type="button" class="nav-link dropdown-toggle waves-light" mdbWavesEffect>
+            الـفـواتـيـر<span class="caret"></span></a>
+          <div *dropdownMenu class="dropdown-menu dropdown dropdown-primary" role="menu">
+            <a routerLink="/dashboard/invoice/customer/add" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect >إضـافـة فـاتـورة عـمـيـل</a>
+            <a routerLink="/dashboard/invoice/customer/list" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect >كـل فـواتـيـر الـعـمـلاء</a>
+            <a routerLink="/dashboard/invoice/vendor/add" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect >إضـافـة فـاتـورة مــورد</a>
+            <a routerLink="/dashboard/invoice/vendor/list" routerLinkActive="active" class="dropdown-item waves-light" mdbWavesEffect >كـل فـواتـيـر الـمـورديـن</a>
+          </div>
+        </li>
+
+        <!-- <li class="nav-item">
+          <a class="nav-link waves-light" mdbWavesEffect>Features</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link waves-light" mdbWavesEffect>Pricing</a>
+        </li>
+    -->
+      </ul>
+      <!-- Links -->
+   
+      <ul class="navbar-nav   nav-flex-icons" >
+        <li class="nav-item">
+          <a class="nav-link">
+            <mdb-icon fab icon="twitter"></mdb-icon>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link">
+            <mdb-icon fab icon="google-plus"></mdb-icon>
+          </a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link">
+            <div class="btn-group" mdbDropdown>
+              <mdb-icon fas icon="user" mdbDropdownToggle></mdb-icon>
+              <div class="dropdown-menu dropdown-menu-right dropdown-primary">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <a class="dropdown-item" href="#">Something else here</a>
+                <div class="divider dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Separated link</a>
+              </div>
+            </div>
+          </a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" (click)="onClickToggle()  ">
+                <mdb-icon fas icon="bars"></mdb-icon>
+            </a>
+          </li>
+      </ul>
+    </links>
+    <!-- Collapsible content -->
+   
+  </mdb-navbar>
+  <!--/.Navbar-->
+  

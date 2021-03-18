@@ -1,0 +1,72 @@
+<div class="container">
+    <div class="row">
+      <div class="col-sm-6 mx-auto">
+        <div class="md-form">
+          <input
+            type="text"
+            [(ngModel)]="searchText"
+            class="form-control"
+            id="search"
+            mdbInput
+          />
+          <label for="search">بـحـث</label>
+        </div>
+      </div>
+      <div class="col-sm-6 mx-auto">
+        <div class="md-form">
+          <a routerLink="/dashboard/masterdata/category/add" class="btn btn-primary" mdbWavesEffect>
+            إضـافـة فـئـة
+          </a>
+        </div>
+      </div>
+    </div>
+    <div class="table-responsive">
+      <table mdbTable #tableEl="mdbTable" class="z-depth-1 table">
+        <thead>
+          <tr>
+            <th
+              *ngFor="let head of headElements; let i = index"
+              scope="col"
+            >
+              {{head}}
+            </th>
+          </tr>
+        </thead>
+        <tbody *ngIf="elements.length>0; else noRow">
+          <tr *ngFor="let el of elements; let i = index">
+            <th  scope="row">{{el.id}}</th>
+            <td  class="red-text">{{el.name}}</td>
+            <td  >{{el.createdOn | date}}</td>
+            <td  >
+              <a routerLink="/dashboard/masterdata/category/edit/{{el.id}}" class="btn btn-warning btn-sm">
+                  تعديل    <mdb-icon fas icon="edit" class="mr-1" aria-hidden="true"></mdb-icon>
+              </a>
+              <a routerLink="/dashboard/masterdata/category/edit/{{el.id}}" class="btn btn-danger btn-sm mr-1">
+                حذف    <mdb-icon fas icon="trash-alt" class="mr-1" aria-hidden="true"></mdb-icon>
+            </a>
+            </td>
+          </tr>
+        </tbody>
+        <ng-template #noRow>
+          <tbody>
+            <tr>
+              <td [attr.colspan]="headElements.length">
+                <div class="row p-0 m-0">
+                  <div class="col-sm-12 text-center">
+                    لا يوجد بيانات لعرضها
+                  </div>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </ng-template>
+        <tfoot class="grey lighten-5 w-100" *ngIf="elements.length>0 && pageResult.totalPages>1">
+          <tr>
+            <td [attr.colspan]="headElements.length">
+              <pagination [total-items]="pageResult.totalElements" [page-size]="queryModel.PageSize" (page-changed)="onPageChange($event)"></pagination>
+            </td>
+          </tr>
+          </tfoot>
+      </table>
+    </div>
+  </div>

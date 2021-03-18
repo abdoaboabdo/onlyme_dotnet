@@ -1,0 +1,22 @@
+<!-- Default form contact -->
+  <form class="text-center border border-light p-5" [formGroup]="categoryForm" style="color: #757575;" (ngSubmit)="addCategory()">
+    <p class="h4 mb-4">الــفــئــات</p>
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+                <!-- Name -->
+
+          <div class="md-form md-outline">
+            <input type="text" id="name" name="name" formControlName="name" class="form-control" mdbInput>
+            <label for="name">اسم الفئة</label>
+          </div>
+          <button mdbBtn type="submit" color="success" rounded="true" rounded="true" [disabled]="categoryForm.invalid" mdbWavesEffect>حـفـظ</button>
+          <a routerLink="/dashboard/masterdata/category"><button mdbBtn type="button" color="danger" rounded="true" rounded="true" mdbWavesEffect>إلـغـاء</button></a>
+          
+          <!-- <input type="text" id="categoryname" name="name" class="form-control" placeholder="الأســم مثل موبايلا - سماعات ..." > -->
+        </div>
+      </div>
+    </div>
+  </form>          
+  <!-- Default form contact -->

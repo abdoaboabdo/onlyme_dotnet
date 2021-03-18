@@ -1,0 +1,35 @@
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.deps.json
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.runtimeconfig.json
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.runtimeconfig.dev.json
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.AssemblyInfoInputs.cache
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.AssemblyInfo.cs
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.csproj.CoreCompileInputs.cache
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.genruntimeconfig.cache
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.csprojAssemblyReference.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.deps.json
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.runtimeconfig.json
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.runtimeconfig.dev.json
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.AssemblyInfoInputs.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.AssemblyInfo.cs
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.csproj.CoreCompileInputs.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.genruntimeconfig.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.csprojAssemblyReference.cache
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.deps.json
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.runtimeconfig.json
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.runtimeconfig.dev.json
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\bin\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.AssemblyInfoInputs.cache
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.AssemblyInfo.cs
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.csproj.CoreCompileInputs.cache
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.DAL\obj\Debug\netcoreapp3.1\OnlyMe.DAL.genruntimeconfig.cache

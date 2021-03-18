@@ -1,0 +1,11 @@
+<div id="app" class="fixed-sn">
+    <app-sidebar #sidebar></app-sidebar>
+    <div class="flexible-content" >
+        <app-header-dashboard (sidenav)="onClickToggle()"></app-header-dashboard>
+        <main>
+            <router-outlet></router-outlet>
+             
+        </main>
+    </div>
+
+</div>

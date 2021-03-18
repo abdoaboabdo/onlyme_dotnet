@@ -1,0 +1,49 @@
+@import '../../assets/scss/core/mixins';
+@import '../../assets/scss/core/colors';
+@import '../../assets/scss/core/variables';
+@import '../../assets/scss/core/variables-pro';
+
+@import 'sidenav-pro';
+@import 'double-navbar-pro';
+
+
+
+.side-nav .social{
+    padding-right:0;
+}
+.side-nav.side-nav-light input[type="text"]{
+    padding-right: 1.88rem !important;
+    padding-left: 1.88rem !important ;
+    width: 80% !important;
+}
+
+.side-nav .collapsible .card .card-header a h5{
+    padding-left: 0 !important;
+    padding-right: 20px !important;
+}
+
+.side-nav .collapsible .card .card-header a h5 span{
+    float: right !important;
+}
+
+.side-nav .collapsible .card .card-header a h5 span mdb-icon{
+    margin-right: 0 !important;
+    
+}
+
+.side-nav .collapsible .card .card-header a h5 span i{
+    margin-left: 13px !important;
+}
+
+.side-nav .collapsible .card .card-header a h5 i.ng-star-inserted{
+    float: left !important;
+    position: relative !important;
+    margin-left: 20px !important;
+    margin-right: 0 !important;
+}
+
+.side-nav .collapsible .card-body li a{
+    padding-right: 47px !important;
+    padding-left: 0 !important;
+    text-align: right;
+}

@@ -1,0 +1,52 @@
+/* You can add global styles to this file, and also import other style files */
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/core/colors';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/core/variables';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/core/variables-pro';
+
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/sections-pro/_contacts-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/sections-pro/_magazine-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/sections-pro/_pricing-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/sections-pro/_social-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/sections-pro/_team-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/sections-pro/_templates-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/sections-pro/_testimonials-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/addons-pro/_blog-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/addons-pro/_chat-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/addons-pro/_ecommerce-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/addons-pro/_steppers-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/addons-pro/_timeline-pro.scss';
+@import './../projects/ng-uikit-pro-standard/src/lib/assets/scss/addons-pro/_timelines-pro.scss';
+
+
+
+.side-nav.side-nav-light .collapsible .card-body li a{
+    display: block;
+}
+
+
+*{
+    direction: rtl;
+    text-align: right;
+}
+
+.dltr{
+    direction: ltr !important;
+}
+
+.md-form label{
+    left: inherit !important;
+    right: 5px;
+}
+.md-form .prefix{
+    margin-left: 2.5rem;
+    left:0;
+}
+
+.mdb-select-toggle{
+    right: auto !important;
+    left: 0 !important;
+}
+
+.picker__box .picker__table td.picker__day div.picker__day{
+    text-align: center;
+}

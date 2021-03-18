@@ -1,0 +1,51 @@
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.deps.json
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.runtimeconfig.json
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.runtimeconfig.dev.json
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.dll
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.pdb
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Repository.dll
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Repository.pdb
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csprojAssemblyReference.cache
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.AssemblyInfoInputs.cache
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.AssemblyInfo.cs
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csproj.CoreCompileInputs.cache
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csproj.CopyComplete
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.dll
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.pdb
+E:\dd\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.genruntimeconfig.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.deps.json
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.runtimeconfig.json
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.runtimeconfig.dev.json
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.dll
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.pdb
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Repository.dll
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Repository.pdb
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csprojAssemblyReference.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.AssemblyInfoInputs.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.AssemblyInfo.cs
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csproj.CoreCompileInputs.cache
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csproj.CopyComplete
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.dll
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.pdb
+E:\MyWorkFree\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.genruntimeconfig.cache
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.deps.json
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.runtimeconfig.json
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.runtimeconfig.dev.json
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.dll
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Services.pdb
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.DAL.dll
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Repository.dll
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.DAL.pdb
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\bin\Debug\netcoreapp3.1\OnlyMe.Repository.pdb
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csprojAssemblyReference.cache
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.AssemblyInfoInputs.cache
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.AssemblyInfo.cs
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csproj.CoreCompileInputs.cache
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.csproj.CopyComplete
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.dll
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.pdb
+F:\FreeLance Our Work\4-Mahmoud Mobiles\OnlyMe\OnlyMe.Services\obj\Debug\netcoreapp3.1\OnlyMe.Services.genruntimeconfig.cache

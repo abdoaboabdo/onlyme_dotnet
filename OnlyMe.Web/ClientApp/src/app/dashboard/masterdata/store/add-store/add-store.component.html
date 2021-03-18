@@ -1,0 +1,31 @@
+<!-- Default form contact -->
+<form class="text-center border border-light p-5" [formGroup]="storeForm" style="color: #757575;" (ngSubmit)="addStore()">
+    <p class="h4 mb-4">تعديل المخزون</p>
+  
+    <div class="container">
+      <div class="row">
+        <div class="col-6">
+            <div class="md-form md-outline">
+                <input type="text" id="code" name="code" formControlName="code" class="form-control" mdbInput>
+                <label for="code">كود المخزون</label>
+              </div>
+            <div class="md-form md-outline">
+                <input type="text" id="name" name="name" formControlName="name" class="form-control" mdbInput>
+                <label for="name">اسم المخزون</label>
+            </div>
+
+            <div class="md-form md-outline">
+                <input type="text" id="address" name="address" formControlName="address" class="form-control" mdbInput>
+                <label for="address">عنوان المخزون</label>
+            </div>
+
+          
+            <button mdbBtn type="submit" color="success" rounded="true" rounded="true" [disabled]="storeForm.invalid" mdbWavesEffect>حـفـظ</button>
+            <a routerLink="/dashboard/masterdata/store"><button mdbBtn type="button" color="danger" rounded="true" rounded="true" mdbWavesEffect>إلـغـاء</button></a>
+          
+          <!-- <input type="text" id="categoryname" name="name" class="form-control" placeholder="الأســم مثل موبايلا - سماعات ..." > -->
+        </div>
+      </div>
+    </div>
+  </form>          
+  <!-- Default form contact -->

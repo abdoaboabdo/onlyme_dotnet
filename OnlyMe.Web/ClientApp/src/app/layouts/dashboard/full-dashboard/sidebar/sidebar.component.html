@@ -1,0 +1,133 @@
+
+
+<!-- Sidebar navigation -->
+<mdb-side-nav #sidenav class="side-nav-light fixed" [sidenavBreakpoint]="1440" side="right" [fixed]="true" >
+  <!-- Logo -->
+  <li>
+    <div class="logo-wrapper waves-light">
+      <a href="#"><img src="../../../../../assets/Logo/C6PR6Mfr9L.jpg" class="img-fluid flex-center"></a>
+    </div>
+  </li>
+
+  <!-- Side navigation links -->
+  <li>
+    <ul class="collapsible collapsible-accordion">
+      <mdb-accordion [multiple]="false" aria-multiselectable="false">
+
+        <!-- Master Data -->
+        <mdb-accordion-item>
+          <mdb-accordion-item-head mdbWavesEffect>
+            <mdb-icon fas icon="chevron-right"></mdb-icon> البيانات الرئيسية
+          </mdb-accordion-item-head>
+          <mdb-accordion-item-body>
+            <ul>
+              <li><a routerLink="/dashboard/masterdata/category/list" routerLinkActive="active"
+                     mdbWavesEffect>الـفـئـات</a></li>
+              <li><a routerLink="/dashboard/masterdata/varity/list" routerLinkActive="active"
+                     mdbWavesEffect>الأصـنـاف</a></li>
+              <li><a routerLink="/dashboard/masterdata/product/list" routerLinkActive="active"
+                     mdbWavesEffect>المنتاجات</a></li>
+            </ul>
+          </mdb-accordion-item-body>
+        </mdb-accordion-item>
+        <!-- End Master Data -->
+
+        <!-- Vendor -->
+        <mdb-accordion-item>
+          <mdb-accordion-item-head mdbWavesEffect>
+            <mdb-icon fas icon="chevron-right"></mdb-icon> الموردين
+          </mdb-accordion-item-head>
+          <mdb-accordion-item-body>
+            <ul>
+              <li><a routerLink="/dashboard/vendor/add" routerLinkActive="active"
+                     mdbWavesEffect>إضـافـة مـورد</a></li>
+              <li><a routerLink="/dashboard/vendor/list" routerLinkActive="active"
+                     mdbWavesEffect>كـل الـمـورديـن</a></li>
+            </ul>
+          </mdb-accordion-item-body>
+        </mdb-accordion-item>
+        <!-- End Vendor -->
+
+        <!-- Customer -->
+        <mdb-accordion-item>
+          <mdb-accordion-item-head mdbWavesEffect>
+            <mdb-icon fas icon="chevron-right"></mdb-icon> العـمـلاء
+          </mdb-accordion-item-head>
+          <mdb-accordion-item-body>
+            <ul>
+              <li><a routerLink="/dashboard/customer/add" routerLinkActive="active"
+                    mdbWavesEffect>إضـافـة عـمـيـل</a></li>
+              <li><a routerLink="/dashboard/customer/list" routerLinkActive="active"
+                    mdbWavesEffect>كـل العـمـلاء</a></li>
+            </ul>
+          </mdb-accordion-item-body>
+        </mdb-accordion-item>
+        <!-- End Customer -->
+
+        <!-- Invoices -->
+        <mdb-accordion-item>
+          <mdb-accordion-item-head mdbWavesEffect>
+            <mdb-icon fas icon="chevron-right"></mdb-icon> الفواتير
+          </mdb-accordion-item-head>
+          <mdb-accordion-item-body>
+            <ul>
+              <li><a routerLink="/dashboard/invoice/customer/add" routerLinkActive="active"
+                mdbWavesEffect>إضـافـة فـاتـورة عـمـيـل</a></li>
+              <li><a routerLink="/dashboard/invoice/customer/list" routerLinkActive="active"
+                mdbWavesEffect>كـل فـواتـيـر الـعـمـلاء</a></li>
+              <li><a routerLink="/dashboard/invoice/vendor/add" routerLinkActive="active"
+                    mdbWavesEffect>إضـافـة فـاتـورة مـورد</a></li>
+              <li><a routerLink="/dashboard/invoice/vendor/list" routerLinkActive="active"
+                    mdbWavesEffect>كـل فـواتـيـر الـمـورديـن</a></li>
+            </ul>
+          </mdb-accordion-item-body>
+        </mdb-accordion-item>
+        <!-- End Invoices -->
+
+
+
+        <mdb-accordion-item class="no-collase">
+          <mdb-accordion-item-head routerLink="/example-route-2" routerLinkActive="active" mdbWavesEffect><i
+            class="far fa-hand-pointer"></i> الـمـبـيـعـات
+          </mdb-accordion-item-head>
+          <mdb-accordion-item-body></mdb-accordion-item-body>
+        </mdb-accordion-item>
+
+        <!-- Collapsible link -->
+        <mdb-accordion-item>
+          <mdb-accordion-item-head mdbWavesEffect>
+            <mdb-icon far icon="eye"></mdb-icon> Collapsible menu 2
+          </mdb-accordion-item-head>
+          <mdb-accordion-item-body>
+            <ul>
+              <li>
+                <a routerLink="/example-route-3" routerLinkActive="active" href="#"
+                   mdbWavesEffect>Link 1</a>
+              </li>
+              <li>
+                <a routerLink="/example-route-4" routerLinkActive="active" href="#"
+                   mdbWavesEffect>Link 2</a>
+              </li>
+              <li>
+                <a routerLink="/example-route-4" routerLinkActive="active" href="#"
+                   mdbWavesEffect>Abdo Abo Abdo</a>
+              </li>
+            </ul>
+          </mdb-accordion-item-body>
+        </mdb-accordion-item>
+
+        <!-- Simple link -->
+        <mdb-accordion-item class="no-collase">
+          <mdb-accordion-item-head routerLink="/example-route-5" routerLinkActive="active" mdbWavesEffect><i
+            class="far fa-gem"></i> Simple link 2
+          </mdb-accordion-item-head>
+          <mdb-accordion-item-body></mdb-accordion-item-body>
+        </mdb-accordion-item>
+
+      </mdb-accordion>
+    </ul>
+  </li>
+  <!--/. Side navigation links -->
+  <div class="sidenav-bg mask-strong"></div>
+</mdb-side-nav>
+<!--/. Sidebar navigation -->

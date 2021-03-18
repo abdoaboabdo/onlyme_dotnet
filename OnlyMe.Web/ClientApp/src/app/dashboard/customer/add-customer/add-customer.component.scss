@@ -1,0 +1,12 @@
+*{
+    direction: rtl;
+    text-align: right;
+}
+
+.md-form label{
+    left: inherit;
+}
+.md-form .prefix{
+    margin-left: 2.5rem;
+    left:0;
+}

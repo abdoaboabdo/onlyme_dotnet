@@ -1,0 +1,53 @@
+<!-- Default form contact -->
+<form class="text-center border border-light p-5" [formGroup]="invoiceVendorForm" style="color: #757575;" (ngSubmit)="addInvoiceVendor()">
+    <p class="h4 mb-4">فاتورة مورد</p>
+
+    <div class="container">
+      <div class="row">
+        <div class="col-3">
+          <div class="md-form md-outline">
+            <input type="text" id="code" name="code" formControlName="code" class="form-control" mdbInput>
+            <label for="code">الكود</label>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="md-form md-outline">
+              <mdb-select [options]="vendorOptions" formControlName="vendorId" placeholder="اختار المورد" label="المورد"></mdb-select>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="md-form md-outline">
+              <mdb-select [options]="StoreOptions" formControlName="storeId" placeholder="اختار المخزن" label="المخزن"></mdb-select>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="md-form md-outline">
+            <mdb-date-picker name="mydate" [options]="myDatePickerOptions" [placeholder]="'Selected date'" formControlName="dateTime"></mdb-date-picker>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12"><h5 >اضافة منتجات</h5></div>
+        <div class="col-4">
+          <div class="md-form md-outline">
+            <mdb-select [options]="CategoryOptions" formControlName="categoryId" placeholder="اختار الفئة" label="الفئة"></mdb-select>
+          </div>
+        </div>
+        <div class="col-4">
+          <div class="md-form md-outline">
+            <mdb-select [options]="varietyOptions" formControlName="varietyId" placeholder="اختار الصنف" label="الصنف"></mdb-select>
+          </div>
+        </div>
+        <div class="col-4">
+          <div class="md-form md-outline">
+            <mdb-select [options]="productOptions" formControlName="productId" placeholder="اختار المنتج" label="المنتج"></mdb-select>
+          </div>
+        </div>
+      </div>
+      <button mdbBtn type="submit" color="success" rounded="true" rounded="true"  mdbWavesEffect>حـفـظ</button>
+        <a routerLink="/dashboard/masterdata/product">
+          <button mdbBtn type="button" color="danger" rounded="true" rounded="true" mdbWavesEffect>إلـغـاء</button>
+        </a>
+    </div>
+  </form>
+  <!-- Default form contact -->
